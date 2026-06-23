@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/routerchat.js": {
-      "maxDuration": 30
-    }
-  }
-}
